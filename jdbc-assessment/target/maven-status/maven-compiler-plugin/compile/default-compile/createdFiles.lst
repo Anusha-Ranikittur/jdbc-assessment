@@ -1,0 +1,4 @@
+com\dxc\assessment\App.class
+com\dxc\assessment\dao\AuthorDaoImpl.class
+com\dxc\assessment\modal\Author.class
+com\dxc\assessment\dao\AuthorDao.class
